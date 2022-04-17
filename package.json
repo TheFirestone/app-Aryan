@@ -1,16 +1,16 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demo Project",
   "main": "website.js",
-  "dependencies": {
-    "express": "^4.17.3"
-  },
-  "devDependencies": {},
   "scripts": {
     "start": "node website.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aryan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {}
 }
